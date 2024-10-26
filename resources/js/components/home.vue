@@ -8,7 +8,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        <li><a href="#">inicio</a></li>
+        <li><a href="#">inicio link</a></li>
         <li class="nav-item">
           <a class="nav-link" href="#">Features</a>
         </li>
@@ -16,7 +16,7 @@
           <a class="nav-link" href="#">Pricing</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+          <a class="nav-link disabled " aria-disabled="true">Disabled</a>
         </li>
       </ul>
     </div>
